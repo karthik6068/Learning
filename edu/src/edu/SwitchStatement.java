@@ -5,7 +5,7 @@ public class SwitchStatement {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-    String name = "Raj";
+    String name = "Karthik";
     
     switch(name)
     {
@@ -15,6 +15,7 @@ public class SwitchStatement {
     case "Deekshith":
     case "Shravan":
     case "Siddu":
+    case "Vikas":
     	System.out.println("He is from warangal");
     	break;
     default:
